@@ -1,10 +1,15 @@
 <h1>Personal website with laravel</h1>
-
-Step1 : git clone
+<hr>
+Step1 : git clone <hr>
+<hr>
 step2 : composer install
+<hr>
 step3 : npm install
+<hr>
 step4 : npm run dev
+<hr>
 step5 : php artisan migrate
+<hr>
 step6 : php artisan serve
 
 Enjoy
