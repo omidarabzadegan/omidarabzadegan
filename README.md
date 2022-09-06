@@ -1,3 +1,16 @@
+<h1>Personal website with laravel</h1>
+
+Step1 : git clone
+step2 : composer install
+step3 : npm install
+step4 : npm run dev
+step5 : php artisan migrate
+step6 : php artisan serve
+
+Enjoy
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
